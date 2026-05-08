@@ -15,7 +15,8 @@ guessed_letters = []
 # Maximum incorrect attempts
 max_attempts = 6
 wrong_attempts = 0
-
+ 
+ 
 print("===================================")
 print("      WELCOME TO HANGMAN GAME      ")
 print("===================================")
